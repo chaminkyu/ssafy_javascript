@@ -7,6 +7,5 @@
 | 04/23 | Basic syntax 02 |
 | 04/24 | Controlling Event                     |
 | 04/28 | Asynchronous Javascript |
-| 04/29 | Asynchronous Javascript with Django 01 |
-| 04/30 | Asynchronous Javascript with Django 02 |
+| 04/29 | Asynchronous Javascript with Django |
 
